@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About us",
+    "section": "",
+    "text": "Anil Yildiz works as a lecturer at the chair of Methods of Model-based Development in Computational Engineering, RWTH Aachen University, Germany, and he is leading the research group Engineering Climate Change Response. He earned his BSc. and MSc. degrees in Civil Engineering at Bogazici University, and obtained his Dr. sc. in Civil Engineering from ETH Zurich in 2018. He has been awarded the Culmann Prize 2019 for an outstanding thesis on the quantification of biological effects on soil stability. His research focusses mainly on geohazards, covering a wide range of topics, such as shallow landslides, root reinforcement, soil-plant-atmosphere interactions, and methods, such as complex laboratory and field testing as well as computational and surrogate modelling."
+  },
+  {
+    "objectID": "about.html#anil-yildiz-dr.-sc.",
+    "href": "about.html#anil-yildiz-dr.-sc.",
+    "title": "About us",
+    "section": "",
+    "text": "Anil Yildiz works as a lecturer at the chair of Methods of Model-based Development in Computational Engineering, RWTH Aachen University, Germany, and he is leading the research group Engineering Climate Change Response. He earned his BSc. and MSc. degrees in Civil Engineering at Bogazici University, and obtained his Dr. sc. in Civil Engineering from ETH Zurich in 2018. He has been awarded the Culmann Prize 2019 for an outstanding thesis on the quantification of biological effects on soil stability. His research focusses mainly on geohazards, covering a wide range of topics, such as shallow landslides, root reinforcement, soil-plant-atmosphere interactions, and methods, such as complex laboratory and field testing as well as computational and surrogate modelling."
+  },
+  {
+    "objectID": "about.html#dr.-gerrit-j.-meijer",
+    "href": "about.html#dr.-gerrit-j.-meijer",
+    "title": "About us",
+    "section": "Dr. Gerrit J. Meijer",
+    "text": "Dr. Gerrit J. Meijer\n\n\nGerrit Meijer is a lecturer in geotechnical engineering at the University of Bath. He has a BSc., MSc. (both Delft University of Technology) and PhD (University of Dundee, 2016) degree in Civil Engineering. With over a decade of experience with field test, laboratory tests and modelling of root-reinforced soil, he aims streamline the integration of nature-based solutions into engineering design by developing innovative measurement techniques (e.g., corkscrew testing) and practical, physics-based models (e.g., DRAM, generic fibre bundle models)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Root Reinforcement: Measurement and Modelling",
+    "section": "",
+    "text": "SBEE25 in Mexico\n\n\n\n6th International Conference on Soil Bio- and Eco-Engineering (SBEE25) “The Use of Vegetation to Improve Slope Stability” takes place in Xalapa, Mexico between 30th June and 4th July 2025. Details can be seen on conference website.\n\nGerrit is organising a workshop on root reinforcement modelling on the first day of the workshop\nAnil is a member of the scientific committee\nWe are presenting pyrootmemo - our Python package.\n\n📅 2025-06-12\n\n\n\n\n\n\n\n\npyrootmemo is online\n\n\n\nOur open-source research software, pyrootmemo, is online! Visit our project on Github and see our detailed documentation on pyrootmemo.readthedocs.io\n📅 2025-06-11"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Root Reinforcement: Measurement and Modelling",
+    "section": "",
+    "text": "SBEE25 in Mexico\n\n\n\n6th International Conference on Soil Bio- and Eco-Engineering (SBEE25) “The Use of Vegetation to Improve Slope Stability” takes place in Xalapa, Mexico between 30th June and 4th July 2025. Details can be seen on conference website.\n\nGerrit is organising a workshop on root reinforcement modelling on the first day of the workshop\nAnil is a member of the scientific committee\nWe are presenting pyrootmemo - our Python package.\n\n📅 2025-06-12\n\n\n\n\n\n\n\n\npyrootmemo is online\n\n\n\nOur open-source research software, pyrootmemo, is online! Visit our project on Github and see our detailed documentation on pyrootmemo.readthedocs.io\n📅 2025-06-11"
+  },
+  {
     "objectID": "docs/00_tutorial.html",
     "href": "docs/00_tutorial.html",
     "title": "Milestone 1",
