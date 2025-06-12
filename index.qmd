@@ -9,3 +9,27 @@ format:
     link-external-icon: true
     link-external-newwindow: true
 ---
+
+## News
+
+::: {.callout-tip}
+## SBEE25 in Mexico
+
+6th International Conference on Soil Bio- and Eco-Engineering (SBEE25) "The Use of Vegetation to Improve Slope Stability" takes place in Xalapa, Mexico between 30th June and 4th July 2025. Details can be seen on [conference website](https://sbee2025.com/).
+
+- Gerrit is organising a workshop on root reinforcement modelling on the first day of the workshop
+- Anil is a member of the scientific committee
+- We are presenting `pyrootmemo` - our Python package.
+ 
+:date: 2025-06-12
+
+:::
+
+::: {.callout-tip}
+## pyrootmemo is online
+
+Our open-source research software, `pyrootmemo`, is online! Visit our project on [Github](https://www.github.com/rootmemo/pyrootmemo) and see our detailed documentation on [pyrootmemo.readthedocs.io](https://pyrootmemo.readthedocs.io/latest)
+
+
+:date: 2025-06-11
+:::

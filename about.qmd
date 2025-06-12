@@ -9,3 +9,25 @@ format:
     link-external-icon: true
     link-external-newwindow: true
 ---
+
+## Anil Yildiz, Dr. sc.
+
+::: {.columns}
+::: {.column width="80%"}
+Anil Yildiz works as a lecturer at the chair of Methods of Model-based Development in Computational Engineering, RWTH Aachen University, Germany, and he is leading the research group Engineering Climate Change Response. He earned his BSc. and MSc. degrees in Civil Engineering at Bogazici University, and obtained his Dr. sc. in Civil Engineering from ETH Zurich in 2018. He has been awarded the Culmann Prize 2019 for an outstanding thesis on the quantification of biological effects on soil stability. His research focusses mainly on geohazards, covering a wide range of topics, such as shallow landslides, root reinforcement, soil-plant-atmosphere interactions, and methods, such as complex laboratory and field testing as well as computational and surrogate modelling.
+:::
+::: {.column width="20%"}
+![](https://www.mbd.rwth-aachen.de/global/show_picture.asp?id=aaaaaaaachculzf&w2=1080&h2=1080&q=75)
+:::
+:::
+
+## Dr. Gerrit J. Meijer
+
+::: {.columns}
+::: {.column width="80%"}
+Gerrit Meijer is a lecturer in geotechnical engineering at the University of Bath. He has a BSc., MSc. (both Delft University of Technology) and PhD (University of Dundee, 2016) degree in Civil Engineering. With over a decade of experience with field test, laboratory tests and modelling of root-reinforced soil, he aims streamline the integration of nature-based solutions into engineering design by developing innovative measurement techniques (e.g., corkscrew testing) and practical, physics-based models (e.g., DRAM, generic fibre bundle models).
+:::
+::: {.column width="20%"}
+![](https://researchportal.bath.ac.uk/files-asset/199896318/gerrit_meijer_230x288.jpg?w=320&f=webp)
+:::
+:::
