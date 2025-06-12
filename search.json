@@ -21,18 +21,25 @@
     "text": "Dr. Gerrit J. Meijer\n\n\nGerrit Meijer is a lecturer in geotechnical engineering at the University of Bath. He has a BSc., MSc. (both Delft University of Technology) and PhD (University of Dundee, 2016) degree in Civil Engineering. With over a decade of experience with field test, laboratory tests and modelling of root-reinforced soil, he aims streamline the integration of nature-based solutions into engineering design by developing innovative measurement techniques (e.g., corkscrew testing) and practical, physics-based models (e.g., DRAM, generic fibre bundle models)."
   },
   {
+    "objectID": "posts/item002.html",
+    "href": "posts/item002.html",
+    "title": "pyrootmemo is online!",
+    "section": "",
+    "text": "Visit our project on Github and see our detailed documentation on pyrootmemo.readthedocs.io"
+  },
+  {
+    "objectID": "posts/item001.html",
+    "href": "posts/item001.html",
+    "title": "SBEE25 in Mexico",
+    "section": "",
+    "text": "6th International Conference on Soil Bio- and Eco-Engineering (SBEE25) “The Use of Vegetation to Improve Slope Stability” takes place in Xalapa, Mexico between 30th June and 4th July 2025. Details can be seen on conference website.\n\nGerrit is organising a workshop on root reinforcement modelling on the first day of the workshop\nAnil is a member of the scientific committee\nWe are presenting pyrootmemo - our Python package."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Root Reinforcement: Measurement and Modelling",
     "section": "",
-    "text": "SBEE25 in Mexico\n\n\n\n6th International Conference on Soil Bio- and Eco-Engineering (SBEE25) “The Use of Vegetation to Improve Slope Stability” takes place in Xalapa, Mexico between 30th June and 4th July 2025. Details can be seen on conference website.\n\nGerrit is organising a workshop on root reinforcement modelling on the first day of the workshop\nAnil is a member of the scientific committee\nWe are presenting pyrootmemo - our Python package.\n\n📅 2025-06-12\n\n\n\n\n\n\n\n\npyrootmemo is online\n\n\n\nOur open-source research software, pyrootmemo, is online! Visit our project on Github and see our detailed documentation on pyrootmemo.readthedocs.io\n📅 2025-06-11"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Root Reinforcement: Measurement and Modelling",
-    "section": "",
-    "text": "SBEE25 in Mexico\n\n\n\n6th International Conference on Soil Bio- and Eco-Engineering (SBEE25) “The Use of Vegetation to Improve Slope Stability” takes place in Xalapa, Mexico between 30th June and 4th July 2025. Details can be seen on conference website.\n\nGerrit is organising a workshop on root reinforcement modelling on the first day of the workshop\nAnil is a member of the scientific committee\nWe are presenting pyrootmemo - our Python package.\n\n📅 2025-06-12\n\n\n\n\n\n\n\n\npyrootmemo is online\n\n\n\nOur open-source research software, pyrootmemo, is online! Visit our project on Github and see our detailed documentation on pyrootmemo.readthedocs.io\n📅 2025-06-11"
+    "text": "pyrootmemo is online!\n\n\nOur open-source research software, pyrootmemo, is online!\n\n\n\n\n\nJun 11, 2025\n\n\nAnil Yildiz\n\n\n\n\n\n\n\n\n\n\n\n\nSBEE25 in Mexico\n\n\nWe are going to Mexico to attend SBEE25\n\n\n\n\n\nJun 12, 2025\n\n\nAnil Yildiz\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "docs/00_tutorial.html",
