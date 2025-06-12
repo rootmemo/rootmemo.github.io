@@ -10,15 +10,15 @@ bibliography: bibliography.bib
 csl: elsevier-harvard.csl
 
 website:
-  #favicon: "images/logo_mbd.png"
+  favicon: "images/logo.png"
   site-url: https://rootmemo.github.io
   search: 
     location: navbar
     type: overlay
   navbar:
     title: false
-    #logo: "images/logo_mbd.png"
-    #logo-href: /index.qmd
+    logo: "images/logo.png"
+    logo-href: /index.qmd
     left:
       - text: "Home"
         file: index.qmd
