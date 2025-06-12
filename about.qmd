@@ -1,7 +1,5 @@
 ---
-title: "Publications"
-nocite: |
-  @*
+title: "About us"
 notebook-links: false
 from: markdown+emoji
 sidebar: false
@@ -11,6 +9,3 @@ format:
     link-external-icon: true
     link-external-newwindow: true
 ---
-
-::: {#refs}
-:::

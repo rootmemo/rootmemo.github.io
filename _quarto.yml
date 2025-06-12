@@ -9,32 +9,30 @@ bibliography: bibliography.bib
 csl: elsevier-harvard.csl
 
 website:
-  favicon: "images/logo_mbd.png"
+  #favicon: "images/logo_mbd.png"
   search: 
     location: navbar
     type: overlay
   navbar:
     title: false
-    logo: "images/logo_mbd.png"
-    logo-href: /index.qmd
+    #logo: "images/logo_mbd.png"
+    #logo-href: /index.qmd
     left:
       - text: "Home"
         file: index.qmd
-      - text: "Publications"
-        file: publications.qmd
-      - text: "CV"
-        file: cv.qmd
+      - text: "About us"
+        file: about.qmd
+      - text: "Book"
+        file: book.qmd
+      - text: "Software"
+        file: software.qmd
       - text: "Contact"
         file: contact.qmd
     right:
       - icon: globe
-        href: https://www.anilyildiz.info
+        href: https://rootmemo.github.io
       - icon: github
-        href: https://github.com/yildizanil
-      - icon: gitlab
-        href: https://git.rwth-aachen.de/anilyildiz
-      - icon: linkedin
-        href: https://www.linkedin.com/in/anilyildiz-
+        href: https://github.com/rootmemo
 
   sidebar:
     - id: documentation
@@ -49,10 +47,10 @@ website:
   page-footer:
     background: dark
     border: true
-    center: "Contact : [**Anil Yildiz**](mailto:yildiz@mbd.rwth-aachen.de)"
-    right: "[![](/images/logo_mbd.png){width=200px fig-alt=MBD  }](https://www.mbd.rwth-aachen.de)" 
+    center: "Contact : [**Anil Yildiz**](mailto:yildiz@mbd.rwth-aachen.de) | [**Gerrit J. Meijer**](mailto:gjm36@bath.ac.uk)"
+    #right: "[![](/images/logo_mbd.png){width=200px fig-alt=MBD  }](https://www.mbd.rwth-aachen.de)" 
 
-  repo-url: https://git.rwth-aachen.de/mbd/quarto_project_template/
+  repo-url: https://www.github.com/rootmemo/rootmemo.github.io
   repo-actions: none
   repo-branch: main
   repo-link-target: "_blank"
@@ -67,4 +65,4 @@ format:
     code-block-bg: true
     code-copy: true
 
-    
+  
