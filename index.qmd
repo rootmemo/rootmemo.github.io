@@ -1,0 +1,15 @@
+---
+title: "Anil Yildiz, Dr. sc."
+notebook-links: false
+from: markdown+emoji
+sidebar: false
+format: 
+  html:
+    page-layout: full
+    link-external-icon: true
+    link-external-newwindow: true
+---
+
+# Welcome
+
+I am working as a senior researcher and deputy director of Chair of Methods for Model-Development in Computational Engineering (MBD) leading the research group Engineering Climate Change Response. My research interests centre around geohazards, but range from soil-plant-atmosphere interactions to shallow landslides. I am conducting research on computational, surrogate and data-driven modelling of gravitional mass flows. I am very interested in reproducible workflows, metadata extraction, data-integrated modelling workflows and executable publications.

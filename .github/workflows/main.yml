@@ -1,0 +1,44 @@
+name: Quarto Build & Deploy
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '#no_ci')"
+
+    steps:
+      # Check out your repository
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      # Install micromamba (optional environment file, channels, etc., can be specified if desired)
+      - name: Install micromamba
+        uses: mamba-org/setup-micromamba@v2
+        with:
+          environment-file: environment.yml
+          init-shell: bash
+          cache-environment: true
+          cache-downloads: true
+
+      # Install Quarto
+      - name: Install Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      # Render the Quarto project
+      - name: Render Quarto project
+        run: micromamba run -n quarto_project quarto render
+
+      # Deploy to GitHub Pages (make sure your repo is configured to publish from the gh-pages branch)
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _html   # or _book, depending on your Quarto output
+          publish_branch: gh-pages

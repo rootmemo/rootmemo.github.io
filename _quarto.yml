@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: _html
+
+execute:
+  freeze: true
+
+bibliography: bibliography.bib
+csl: elsevier-harvard.csl
+
+website:
+  favicon: "images/logo_mbd.png"
+  search: 
+    location: navbar
+    type: overlay
+  navbar:
+    title: false
+    logo: "images/logo_mbd.png"
+    logo-href: /index.qmd
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Publications"
+        file: publications.qmd
+      - text: "CV"
+        file: cv.qmd
+      - text: "Contact"
+        file: contact.qmd
+    right:
+      - icon: globe
+        href: https://www.anilyildiz.info
+      - icon: github
+        href: https://github.com/yildizanil
+      - icon: gitlab
+        href: https://git.rwth-aachen.de/anilyildiz
+      - icon: linkedin
+        href: https://www.linkedin.com/in/anilyildiz-
+
+  sidebar:
+    - id: documentation
+      title: "Documentation"
+      contents:
+        - docs/00_tutorial.ipynb
+    - id: wiki
+      title: "Wiki"
+      contents:
+        - wiki/index.qmd
+
+  page-footer:
+    background: dark
+    border: true
+    center: "Contact : [**Anil Yildiz**](mailto:yildiz@mbd.rwth-aachen.de)"
+    right: "[![](/images/logo_mbd.png){width=200px fig-alt=MBD  }](https://www.mbd.rwth-aachen.de)" 
+
+  repo-url: https://git.rwth-aachen.de/mbd/quarto_project_template/
+  repo-actions: none
+  repo-branch: main
+  repo-link-target: "_blank"
+
+format:
+  html:
+    theme:
+      light: sandstone
+      dark: cyborg
+    css: styles.css
+    toc: true
+    code-block-bg: true
+    code-copy: true
+
+    

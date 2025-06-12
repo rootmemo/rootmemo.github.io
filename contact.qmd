@@ -1,0 +1,12 @@
+---
+title: "Contact"
+notebook-links: false
+from: markdown+emoji
+sidebar: false
+format: 
+  html:
+    page-layout: full
+    link-external-icon: true
+    link-external-newwindow: true
+---
+

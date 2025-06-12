@@ -1,0 +1,15 @@
+public
+__pycache__
+/.quarto/
+*.quarto*
+.venv
+_output
+_output*
+_freeze
+*.vscode*
+.conda-env
+_html
+.jupyter_cache
+presentation/.jupyter_cache
+docs/presentation/.jupyter_cache
+_pdf

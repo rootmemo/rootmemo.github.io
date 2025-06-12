@@ -1,0 +1,14 @@
+name: quarto_project
+channels:
+- conda-forge
+- nodefaults
+
+dependencies:
+  - python==3.11
+  - pip
+  - pip:
+    - matplotlib
+    - jupyterlab
+    - numpy
+    - jupyter-cache
+    - pyyaml
