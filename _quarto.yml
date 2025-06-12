@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: _html
 
+
 execute:
   freeze: true
 
@@ -10,6 +11,7 @@ csl: elsevier-harvard.csl
 
 website:
   #favicon: "images/logo_mbd.png"
+  site-url: https://rootmemo.github.io
   search: 
     location: navbar
     type: overlay
