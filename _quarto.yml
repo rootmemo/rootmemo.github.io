@@ -11,7 +11,7 @@ csl: elsevier-harvard.csl
 
 website:
   favicon: "images/logo.png"
-  site-url: https://rootmemo.github.io
+  site-url: "https://rootmemo.github.io"
   search: 
     location: navbar
     type: overlay
