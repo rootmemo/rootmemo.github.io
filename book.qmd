@@ -1,5 +1,5 @@
 ---
-title: "Book"
+title: "Root reinforcement: Measurement and Modelling"
 notebook-links: false
 from: markdown+emoji
 sidebar: false
@@ -9,3 +9,15 @@ format:
     link-external-icon: true
     link-external-newwindow: true
 ---
+
+We are writing book! We are working on a book to be published by Elsevier in 2026 
+
+- What is this book about?
+
+> How can the effects of vegetation be incorporated into engineering design and slope stability assessment? This book covers mechanical and hydrological interactions between soil and plant roots. It explores and compares measurement techniques, and systematically dissects predictive models developed in the last fifty years of research. The methodical approach and inclusion of executable code makes it a suitable resource for both researchers and practitioners, especially those new to this field.
+> 
+> The contribution of vegetation to slope stability is a complex, multi-scale, and multi-agent mechanism, necessitating inter-disciplinary research. Due to varying backgrounds of researchers working on this topic, standardisation of methods and a systematic classification of models is lacking. This book intends to build confidence among engineers on how to include vegetation in engineering design by providing more clarity on how to quantify reinforcement, by both focussing on how to collect data (measurements) and how to interpret data collected to make predictions for modified soil properties (modelling).
+
+- Stay tuned for further updates
+
+
