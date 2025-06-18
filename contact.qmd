@@ -12,11 +12,13 @@ format:
 
 ![](https://icons.getbootstrap.com/assets/icons/github.svg) [github.com/rootmemo](https://github.com/rootmemo)
 
-![](https://icons.getbootstrap.com/assets/icons/envelope.svg) [yildiz@mbd.rwth-aachen.de](mailto:yildiz@mbd.rwth-aachen.de)
+![](https://icons.getbootstrap.com/assets/icons/house.svg) [Anil Yildiz](https://www.mbd.rwth-aachen.de/cms/mbd/Der-Lehrstuhl/Team/~qqcsz/Anil-Yildiz/lidx/1/) ![](https://icons.getbootstrap.com/assets/icons/envelope.svg) [yildiz@mbd.rwth-aachen.de](mailto:yildiz@mbd.rwth-aachen.de)
 
-![](https://icons.getbootstrap.com/assets/icons/envelope.svg) [gjm36@bath.ac.uk](mailto:gjm36@bath.ac.uk)
+![](https://icons.getbootstrap.com/assets/icons/house.svg) [Gerrit J. Meijer](https://researchportal.bath.ac.uk/en/persons/gerrit-meijer) ![](https://icons.getbootstrap.com/assets/icons/envelope.svg) [gjm36@bath.ac.uk](mailto:gjm36@bath.ac.uk)
 
-![](https://icons.getbootstrap.com/assets/icons/house.svg) [Anil Yildiz](https://www.mbd.rwth-aachen.de/cms/mbd/Der-Lehrstuhl/Team/~qqcsz/Anil-Yildiz/lidx/1/)
 
-![](https://icons.getbootstrap.com/assets/icons/house.svg) [Gerrit J. Meijer](https://researchportal.bath.ac.uk/en/persons/gerrit-meijer)
+
+
+
+
 
