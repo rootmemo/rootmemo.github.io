@@ -21,6 +21,13 @@
     "text": "Dr. Gerrit J. Meijer\n\n\nGerrit Meijer is a lecturer in geotechnical engineering at the University of Bath. He has a BSc., MSc. (both Delft University of Technology) and PhD (University of Dundee, 2016) degree in Civil Engineering. With over a decade of experience with field test, laboratory tests and modelling of root-reinforced soil, he aims streamline the integration of nature-based solutions into engineering design by developing innovative measurement techniques (e.g., corkscrew testing) and practical, physics-based models (e.g., DRAM, generic fibre bundle models)."
   },
   {
+    "objectID": "book.html",
+    "href": "book.html",
+    "title": "Root reinforcement: Measurement and Modelling",
+    "section": "",
+    "text": "We are writing book! We are working on a book to be published by Elsevier in 2026\n\nWhat is this book about?\n\n\nHow can the effects of vegetation be incorporated into engineering design and slope stability assessment? This book covers mechanical and hydrological interactions between soil and plant roots. It explores and compares measurement techniques, and systematically dissects predictive models developed in the last fifty years of research. The methodical approach and inclusion of executable code makes it a suitable resource for both researchers and practitioners, especially those new to this field.\nThe contribution of vegetation to slope stability is a complex, multi-scale, and multi-agent mechanism, necessitating inter-disciplinary research. Due to varying backgrounds of researchers working on this topic, standardisation of methods and a systematic classification of models is lacking. This book intends to build confidence among engineers on how to include vegetation in engineering design by providing more clarity on how to quantify reinforcement, by both focussing on how to collect data (measurements) and how to interpret data collected to make predictions for modified soil properties (modelling).\n\n\nStay tuned for further updates"
+  },
+  {
     "objectID": "posts/item002.html",
     "href": "posts/item002.html",
     "title": "pyrootmemo is online!",
@@ -28,11 +35,25 @@
     "text": "Visit our project on Github and see our detailed documentation on pyrootmemo.readthedocs.io"
   },
   {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "pyrootmemo",
+    "section": "",
+    "text": "This project is designed to help you to estimate contribution of roots to the shear strength of soil using various models. The documentation is structured to provide a comprehensive guide to using the library, including installation, quickstart, theoretical background, and detailed explanations of the available models. pyrootmemo is designed using Object-Oriented Programming (OOP) principles, making it easy to extend and customize for your specific needs.\n\nVisit our github repo to see further details: github.com/rootmemo/pyrootmemo\nRead the documentation on pyrootmemo.readthedocs.io\nDo you want to contribute? See our Contribution guidelines"
+  },
+  {
     "objectID": "posts/item001.html",
     "href": "posts/item001.html",
     "title": "SBEE25 in Mexico",
     "section": "",
     "text": "6th International Conference on Soil Bio- and Eco-Engineering (SBEE25) “The Use of Vegetation to Improve Slope Stability” takes place in Xalapa, Mexico between 30th June and 4th July 2025. Details can be seen on conference website.\n\nGerrit is organising a workshop on root reinforcement modelling on the first day of the workshop\nAnil is a member of the scientific committee\nWe are presenting pyrootmemo - our Python package."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "github.com/rootmemo\n yildiz@mbd.rwth-aachen.de\n gjm36@bath.ac.uk\n Anil Yildiz\n Gerrit J. Meijer"
   },
   {
     "objectID": "index.html",
