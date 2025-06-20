@@ -10,3 +10,19 @@ date: "2025-06-12"
 - Gerrit is organising a workshop on root reinforcement modelling on the first day of the workshop
 - Anil is a member of the scientific committee
 - We are presenting `pyrootmemo` - our Python package.
+
+You can read our abstract below:
+
+> pyrootmemo: unifying root reinforcement models
+>
+> Meijer, G.J <sup>1<</sup> & Yildiz, A. <sup>2<</sup>
+>
+> <sup>1<</sup> Centre for Climate Change Adaptation & Environment Research, University of Bath, Claverton Down, Bath BA2 7AY, United Kingdom
+> <sup>2<</sup> Methods for Model-based Development in Computational Engineering, RWTH Aachen University, Aachen, Germany
+>
+> Predicting the reinforcing effect of plant roots on slope stability has been of academic and professional interest for over half a century. A large number of analytical, empirical, semi-empirical and numerical models have since been proposed. As a physics-based model using well-established constitutive laws or widely used numerical techniques is still largely lacking, many researchers and practitioners continue to employ multiple methods from the literature. However, because these models use a wide variety of soil and root parameters, assumptions, coefficients, systems of measurement units as well as calculation algorithms, it can be challenging to compare results.
+> 
+> We present an application, “pyrootmemo”, to simplify the use and comparison of models. Currently incorporated models include well-known models based on force-equilibrium such as those by Wu and Waldron, as well as recent extensions of fibre bundle models and root bundle models. pyrootmemo was developed entirely in Python, utilising the principles of object-oriented programming. Controlled terminology, representing models as objects, and standardisation of data structures enable smooth and error-free model simulations and comparisons. Furthermore, automated metadata extraction yields reproducible model calculations, thus ensuring transparency when making design decisions.
+> 
+> Pyrootmemo is ongoing project that is open-source and free to use. The application is modular, enabling users to adapt and implement elements of pyrootmemo within their own models and code. We highly welcome new contributors and contributions. Our aim is to promote accessibility, interoperability, (re)usability, transparency and standardisation, thus facilitating applications of model-based assessments and design of nature-based solutions against climate-driven geohazards. 
+
