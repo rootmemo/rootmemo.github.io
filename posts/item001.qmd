@@ -15,10 +15,11 @@ You can read our abstract below:
 
 > pyrootmemo: unifying root reinforcement models
 >
-> Meijer, G.J <sup>1<</sup> & Yildiz, A. <sup>2<</sup>
+> Meijer, G.J <sup>1</sup> & Yildiz, A. <sup>2</sup>
 >
-> <sup>1<</sup> Centre for Climate Change Adaptation & Environment Research, University of Bath, Claverton Down, Bath BA2 7AY, United Kingdom
-> <sup>2<</sup> Methods for Model-based Development in Computational Engineering, RWTH Aachen University, Aachen, Germany
+> <sup>1</sup> Centre for Climate Change Adaptation & Environment Research, University of Bath, Claverton Down, Bath BA2 7AY, United Kingdom
+> 
+> <sup>2</sup> Methods for Model-based Development in Computational Engineering, RWTH Aachen University, Aachen, Germany
 >
 > Predicting the reinforcing effect of plant roots on slope stability has been of academic and professional interest for over half a century. A large number of analytical, empirical, semi-empirical and numerical models have since been proposed. As a physics-based model using well-established constitutive laws or widely used numerical techniques is still largely lacking, many researchers and practitioners continue to employ multiple methods from the literature. However, because these models use a wide variety of soil and root parameters, assumptions, coefficients, systems of measurement units as well as calculation algorithms, it can be challenging to compare results.
 > 
