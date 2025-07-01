@@ -3,6 +3,9 @@ title: "pyrootmemo is online!"
 description: "Our open-source research software, pyrootmemo, is online!"
 author: "Anil Yildiz"
 date: "2025-06-11"
+categories:
+  - software
+  - modelling
 ---
 
 Visit our project on [Github](https://www.github.com/rootmemo/pyrootmemo) and see our detailed documentation on [pyrootmemo.readthedocs.io](https://pyrootmemo.readthedocs.io/latest)

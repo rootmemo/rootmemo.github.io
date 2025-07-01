@@ -1,0 +1,12 @@
+---
+title: "Modelling workshop in SBEE2025"
+description: "Our open-source research software, pyrootmemo, is online!"
+author: "Anil Yildiz"
+date: "2025-07-01"
+draft: true
+categories:
+  - conference
+  - modelling
+---
+
+Gerrit delivered a great workshop on "Modelling made easy: from basic measurements to slope reinforcement in one day". 

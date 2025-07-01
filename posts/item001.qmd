@@ -3,6 +3,10 @@ title: "SBEE25 in Mexico"
 description: "We are going to Mexico to attend SBEE25"
 author: "Anil Yildiz"
 date: "2025-06-12"
+categories:
+  - conference
+  - software
+  - modelling
 ---
 
 6th International Conference on Soil Bio- and Eco-Engineering (SBEE25) "The Use of Vegetation to Improve Slope Stability" takes place in Xalapa, Mexico between 30th June and 4th July 2025. Details can be seen on [conference website](https://sbee2025.com/).

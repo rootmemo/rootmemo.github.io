@@ -5,7 +5,9 @@ from: markdown+emoji
 sidebar: false
 listing:
   contents: posts
-  sort: "date"
+  sort: "date desc"
+  categories: true
+  feed: true
 format: 
   html:
     page-layout: full
