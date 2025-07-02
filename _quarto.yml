@@ -10,6 +10,7 @@ bibliography: bibliography.bib
 csl: elsevier-harvard.csl
 
 website:
+  title: "Root reinforcement: Measurement and Modelling"
   favicon: "images/logo.png"
   site-url: "https://rootmemo.github.io"
   search: 

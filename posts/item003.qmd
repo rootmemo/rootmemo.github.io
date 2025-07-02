@@ -1,12 +1,16 @@
 ---
 title: "Modelling workshop in SBEE2025"
-description: "Our open-source research software, pyrootmemo, is online!"
+description: "Modelling made easy: from basic measurements to slope reinforcement in one day"
 author: "Anil Yildiz"
-date: "2025-07-01"
-draft: true
+date: "2025-07-02"
 categories:
   - conference
   - modelling
 ---
 
-Gerrit delivered a great workshop on "Modelling made easy: from basic measurements to slope reinforcement in one day". 
+Gerrit delivered a great workshop titled "Modelling made easy: from basic measurements to slope reinforcement in one day" as part of the SBEE25 6th International Conference on Soil Bio- and Eco-Engineering. Drawing participants from around the globe, the workshop highlighted the potential of the open-source Python package [pyrootmemo](https://www.github.com/rootmemo/pyrootmemo) for calculating root reinforcement using various models. Through guided tutorials and hands-on exercises, attendees learned how to integrate measurement data and run multiple modelling approaches to assess slope stability. By the end of the day, participants left with a deeper understanding of root-soil interactions, as well as practical skills for applying calculations they learned in their own research and projects.
+
+Workshop material will soon be available [here](https://rootmemo.github.io) and on a dedicated [repository](https://www.github.com/rootmemo/workshops)
+
+![](../images/gjm_workshop.jpg)
+
