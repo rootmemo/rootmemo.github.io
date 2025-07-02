@@ -2,3 +2,4 @@ matplotlib
 jupyterlab
 numpy
 jupyter-cache
+requests
