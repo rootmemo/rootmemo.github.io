@@ -26,7 +26,6 @@ jobs:
           init-shell: bash
           cache-environment: true
           cache-downloads: true
-
       # Install Quarto
       - name: Install Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -34,6 +33,11 @@ jobs:
       # Render the Quarto project
       - name: Render Quarto project
         run: micromamba run -n quarto_project quarto render
+
+      - name: Inject Google Site Verification Meta Tag
+        run: |
+          META_TAG='<meta name="google-site-verification" content="${{ secrets.GOOGLE_TAG }}" />'
+          find ./_html -name "*.html" -exec sudo sed -i "s|</head>|$META_TAG\n</head>|g" {} +
 
       # Deploy to GitHub Pages (make sure your repo is configured to publish from the gh-pages branch)
       - name: Deploy to GitHub Pages
