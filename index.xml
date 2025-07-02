@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Root reinforcement: Measurement and Modelling</title>
+<link>https://rootmemo.github.io/</link>
+<atom:link href="https://rootmemo.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Wed, 02 Jul 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Modelling workshop in SBEE2025</title>
+  <dc:creator>Anil Yildiz</dc:creator>
+  <link>https://rootmemo.github.io/posts/item003.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Gerrit delivered a great workshop titled “Modelling made easy: from basic measurements to slope reinforcement in one day” as part of the SBEE25 6th International Conference on Soil Bio- and Eco-Engineering. Drawing participants from around the globe, the workshop highlighted the potential of the open-source Python package <a href="https://www.github.com/rootmemo/pyrootmemo">pyrootmemo</a> for calculating root reinforcement using various models. Through guided tutorials and hands-on exercises, attendees learned how to integrate measurement data and run multiple modelling approaches to assess slope stability. By the end of the day, participants left with a deeper understanding of root-soil interactions, as well as practical skills for applying calculations they learned in their own research and projects.</p>
+<p>Workshop material will soon be available <a href="https://rootmemo.github.io">here</a> and on a dedicated <a href="https://www.github.com/rootmemo/workshops">repository</a></p>
+<p><img src="https://rootmemo.github.io/images/gjm_workshop.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>conference</category>
+  <category>modelling</category>
+  <guid>https://rootmemo.github.io/posts/item003.html</guid>
+  <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>SBEE25 in Mexico</title>
+  <dc:creator>Anil Yildiz</dc:creator>
+  <link>https://rootmemo.github.io/posts/item001.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>6th International Conference on Soil Bio- and Eco-Engineering (SBEE25) “The Use of Vegetation to Improve Slope Stability” takes place in Xalapa, Mexico between 30th June and 4th July 2025. Details can be seen on <a href="https://sbee2025.com/">conference website</a>.</p>
+<ul>
+<li>Gerrit is organising a workshop on root reinforcement modelling on the first day of the workshop</li>
+<li>Anil is a member of the scientific committee</li>
+<li>We are presenting <code>pyrootmemo</code> - our Python package.</li>
+</ul>
+<p><img src="https://rootmemo.github.io/images/gjm_sbee25.jpg" class="img-fluid"></p>
+<p>You can read our abstract below:</p>
+<blockquote class="blockquote">
+<p>pyrootmemo: unifying root reinforcement models</p>
+<p>Meijer, G.J <sup>1</sup> &amp; Yildiz, A. <sup>2</sup></p>
+<p><sup>1</sup> Centre for Climate Change Adaptation &amp; Environment Research, University of Bath, Claverton Down, Bath BA2 7AY, United Kingdom</p>
+<p><sup>2</sup> Methods for Model-based Development in Computational Engineering, RWTH Aachen University, Aachen, Germany</p>
+<p>Predicting the reinforcing effect of plant roots on slope stability has been of academic and professional interest for over half a century. A large number of analytical, empirical, semi-empirical and numerical models have since been proposed. As a physics-based model using well-established constitutive laws or widely used numerical techniques is still largely lacking, many researchers and practitioners continue to employ multiple methods from the literature. However, because these models use a wide variety of soil and root parameters, assumptions, coefficients, systems of measurement units as well as calculation algorithms, it can be challenging to compare results.</p>
+<p>We present an application, “pyrootmemo”, to simplify the use and comparison of models. Currently incorporated models include well-known models based on force-equilibrium such as those by Wu and Waldron, as well as recent extensions of fibre bundle models and root bundle models. pyrootmemo was developed entirely in Python, utilising the principles of object-oriented programming. Controlled terminology, representing models as objects, and standardisation of data structures enable smooth and error-free model simulations and comparisons. Furthermore, automated metadata extraction yields reproducible model calculations, thus ensuring transparency when making design decisions.</p>
+<p>Pyrootmemo is ongoing project that is open-source and free to use. The application is modular, enabling users to adapt and implement elements of pyrootmemo within their own models and code. We highly welcome new contributors and contributions. Our aim is to promote accessibility, interoperability, (re)usability, transparency and standardisation, thus facilitating applications of model-based assessments and design of nature-based solutions against climate-driven geohazards.</p>
+</blockquote>
+
+
+
+ ]]></description>
+  <category>conference</category>
+  <category>software</category>
+  <category>modelling</category>
+  <guid>https://rootmemo.github.io/posts/item001.html</guid>
+  <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>pyrootmemo is online!</title>
+  <dc:creator>Anil Yildiz</dc:creator>
+  <link>https://rootmemo.github.io/posts/item002.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Visit our project on <a href="https://www.github.com/rootmemo/pyrootmemo">Github</a> and see our detailed documentation on <a href="https://pyrootmemo.readthedocs.io/latest">pyrootmemo.readthedocs.io</a></p>
+
+
+
+ ]]></description>
+  <category>software</category>
+  <category>modelling</category>
+  <guid>https://rootmemo.github.io/posts/item002.html</guid>
+  <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
