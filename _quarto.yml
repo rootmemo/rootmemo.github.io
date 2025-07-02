@@ -11,8 +11,10 @@ csl: elsevier-harvard.csl
 
 website:
   title: "Root reinforcement: Measurement and Modelling"
+  description: "Updates on the modelling and measurement of root reinforcement by Yildiz & Meijer"
   favicon: "images/logo.png"
   site-url: "https://rootmemo.github.io"
+  margin-header: rss.html
   search: 
     location: navbar
     type: overlay
@@ -36,6 +38,8 @@ website:
         href: https://rootmemo.github.io
       - icon: github
         href: https://github.com/rootmemo
+      - icon: rss
+        href: index.xml
 
   sidebar:
     - id: documentation

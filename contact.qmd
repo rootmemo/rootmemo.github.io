@@ -6,19 +6,22 @@ sidebar: false
 format: 
   html:
     page-layout: full
-    link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
 ---
 
-![](https://icons.getbootstrap.com/assets/icons/github.svg) [github.com/rootmemo](https://github.com/rootmemo)
+## Anil Yildiz
 
-![](https://icons.getbootstrap.com/assets/icons/house.svg) [Anil Yildiz](https://www.mbd.rwth-aachen.de/cms/mbd/Der-Lehrstuhl/Team/~qqcsz/Anil-Yildiz/lidx/1/) ![](https://icons.getbootstrap.com/assets/icons/envelope.svg) [yildiz@mbd.rwth-aachen.de](mailto:yildiz@mbd.rwth-aachen.de)
+![](https://icons.getbootstrap.com/assets/icons/house.svg) [See Anil's institutional homepage](https://www.mbd.rwth-aachen.de/cms/mbd/Der-Lehrstuhl/Team/~qqcsz/Anil-Yildiz/lidx/1/) \
+![](https://icons.getbootstrap.com/assets/icons/house.svg) [See Anil's personal homepage](https://www.anilyildiz.info) \
+![](https://icons.getbootstrap.com/assets/icons/envelope.svg) [Send Anil an e-mail](mailto:yildiz@mbd.rwth-aachen.de) \
+![](https://icons.getbootstrap.com/assets/icons/linkedin.svg) [Connect with Anil on Linkedin](https://www.linkedin.com/in/anilyildiz-) \
+![](https://icons.getbootstrap.com/assets/icons/github.svg) [See Anil's repos on github](https://github.com/yildizanil)
 
-![](https://icons.getbootstrap.com/assets/icons/house.svg) [Gerrit J. Meijer](https://researchportal.bath.ac.uk/en/persons/gerrit-meijer) ![](https://icons.getbootstrap.com/assets/icons/envelope.svg) [gjm36@bath.ac.uk](mailto:gjm36@bath.ac.uk)
+## Gerrit J. Meijer
 
-
-
-
-
+![](https://icons.getbootstrap.com/assets/icons/house.svg) [See Gerrit's institutional homepage](https://researchportal.bath.ac.uk/en/persons/gerrit-meijer) \
+![](https://icons.getbootstrap.com/assets/icons/envelope.svg) [Send Gerrit an e-mail](mailto:gjm36@bath.ac.uk) \
+![](https://icons.getbootstrap.com/assets/icons/github.svg) [See Gerrit's repos on github](https://github.com/GJMeijer)
 
 

@@ -11,6 +11,6 @@ listing:
 format: 
   html:
     page-layout: full
-    link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
 ---
