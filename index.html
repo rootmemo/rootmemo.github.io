@@ -348,6 +348,11 @@ window.Quarto = {
 </i> 
 <span class="menu-text"></span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -360,7 +365,12 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
+<a href="https://rootmemo.github.io/index.xml"><img src="https://icons.getbootstrap.com/assets/icons/rss-fill.svg" alt="Click for RSS feed"></a>
+<a href="https://rootmemo.github.io/index.xml">Subscribe</a> to our RSS feed to get the latest updates from RootMemo.
+
+
+</div></div>
         
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Y29uZmVyZW5jZQ==">conference <span class="quarto-category-count">(2)</span></div><div class="category" data-category="bW9kZWxsaW5n">modelling <span class="quarto-category-count">(3)</span></div><div class="category" data-category="c29mdHdhcmU=">software <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
@@ -392,7 +402,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Y29uZmVyZW5jZSUyQ21vZGVsbGluZw==" data-listing-date-sort="1751414400000" data-listing-file-modified-sort="1751440958119" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="119">
+<div class="quarto-post image-right" data-index="0" data-categories="Y29uZmVyZW5jZSUyQ21vZGVsbGluZw==" data-listing-date-sort="1751414400000" data-listing-file-modified-sort="1751462345290" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="119">
 <div class="thumbnail"><a href="./posts/item003.html" class="no-external">
 
 <p class="card-img-top"><img src="images/gjm_workshop.jpg"  class="thumbnail-image card-img"/></p>
@@ -424,7 +434,7 @@ Anil Yildiz
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Y29uZmVyZW5jZSUyQ3NvZnR3YXJlJTJDbW9kZWxsaW5n" data-listing-date-sort="1749686400000" data-listing-file-modified-sort="1751440958119" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="367">
+<div class="quarto-post image-right" data-index="1" data-categories="Y29uZmVyZW5jZSUyQ3NvZnR3YXJlJTJDbW9kZWxsaW5n" data-listing-date-sort="1749686400000" data-listing-file-modified-sort="1751462345290" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="367">
 <div class="thumbnail"><a href="./posts/item001.html" class="no-external">
 
 <p class="card-img-top"><img src="images/gjm_sbee25.jpg"  class="thumbnail-image card-img"/></p>
@@ -458,7 +468,7 @@ Anil Yildiz
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="c29mdHdhcmUlMkNtb2RlbGxpbmc=" data-listing-date-sort="1749600000000" data-listing-file-modified-sort="1751440958119" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<div class="quarto-post image-right" data-index="2" data-categories="c29mdHdhcmUlMkNtb2RlbGxpbmc=" data-listing-date-sort="1749600000000" data-listing-file-modified-sort="1751462345290" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
 <div class="thumbnail"><a href="./posts/item002.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -597,8 +607,6 @@ Anil Yildiz
             if (link.getAttribute("rel") === null) {
               link.setAttribute("rel", "noopener");
             }
-            // default icon
-            link.classList.add("external");
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
