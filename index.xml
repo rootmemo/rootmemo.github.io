@@ -10,7 +10,27 @@
 <atom:link href="https://rootmemo.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Updates on the modelling and measurement of root reinforcement by Yildiz &amp; Meijer</description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Wed, 02 Jul 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 04 Jul 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Presentation by Gerrit in SBEE25</title>
+  <dc:creator>Anil Yildiz</dc:creator>
+  <link>https://rootmemo.github.io/posts/item004.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://rootmemo.github.io/images/gjm_sbee25.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>conference</category>
+  <category>software</category>
+  <guid>https://rootmemo.github.io/posts/item004.html</guid>
+  <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Modelling workshop in SBEE2025</title>
   <dc:creator>Anil Yildiz</dc:creator>
