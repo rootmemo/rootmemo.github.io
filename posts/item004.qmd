@@ -1,0 +1,14 @@
+---
+title: "Presentation by Gerrit in SBEE25"
+description: "Pyrootmemo: unifying root reinforcement models"
+author: "Anil Yildiz"
+date: "2025-07-04"
+categories:
+  - conference
+  - software
+---
+
+
+
+![](../images/gjm_sbee25.jpg)
+
