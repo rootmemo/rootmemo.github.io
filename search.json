@@ -46,7 +46,14 @@
     "href": "software.html",
     "title": "pyrootmemo",
     "section": "",
-    "text": "This project is designed to help you to estimate contribution of roots to the shear strength of soil using various models. The documentation is structured to provide a comprehensive guide to using the library, including installation, quickstart, theoretical background, and detailed explanations of the available models. pyrootmemo is designed using Object-Oriented Programming (OOP) principles, making it easy to extend and customize for your specific needs.\n\nVisit our github repo to see further details: github.com/rootmemo/pyrootmemo\nRead the documentation on pyrootmemo.readthedocs.io\nDo you want to contribute? See our Contribution guidelines"
+    "text": "This project is designed to help you to estimate contribution of roots to the shear strength of soil using various models. The documentation is structured to provide a comprehensive guide to using the library, including installation, quickstart, theoretical background, and detailed explanations of the available models. pyrootmemo is designed using Object-Oriented Programming (OOP) principles, making it easy to extend and customize for your specific needs."
+  },
+  {
+    "objectID": "software.html#roadmap",
+    "href": "software.html#roadmap",
+    "title": "pyrootmemo",
+    "section": "Roadmap",
+    "text": "Roadmap\n‘pyrootmemo’ is under active development and we welcome any contribution. We have a clear plan on where we want to end up, and we summarise it below:\n\nImplementation of existing models (DRAM, further fibre-bundle and root-bundle models)\nGraphical user interface\nIntegrated datahub development"
   },
   {
     "objectID": "posts/item003.html",
