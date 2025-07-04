@@ -16,3 +16,10 @@ This project is designed to help you to estimate contribution of roots to the sh
 - Read the documentation on [pyrootmemo.readthedocs.io](https://pyrootmemo.readthedocs.io/latest/)
 - Do you want to contribute? See our [Contribution guidelines](https://pyrootmemo.readthedocs.io/latest/contribute.html)
 
+## Roadmap
+
+'pyrootmemo' is under active development and we welcome any contribution. We have a clear plan on where we want to end up, and we summarise it below:
+
+- Implementation of existing models ([DRAM](https://doi.org/10.1016/j.ecoleng.2022.106621), further fibre-bundle and root-bundle models)
+- Graphical user interface
+- Integrated datahub development
